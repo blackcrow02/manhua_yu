@@ -1,0 +1,3 @@
+﻿  text.c
+E:\c\项目\发放奖金\text.c(6,48): warning C4101: “bonus5”: 未引用的局部变量
+  发放奖金.vcxproj -> E:\c\项目\发放奖金\x64\Debug\发放奖金.exe
